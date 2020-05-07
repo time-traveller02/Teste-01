@@ -1,5 +1,3 @@
-# Teste-01
+# Exercicios de python
 
-Teste do GitKraken.  
-
-Teste foi um sucesso, embora ainda existam muitas dúvidas em relação ao sitema.
+Repositório para armazenzar exercícios de python 3.6.
