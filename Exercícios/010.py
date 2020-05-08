@@ -1,0 +1,5 @@
+n = float(input('Quanto dinheiro voçe tem ?R$'))
+print('Com R${}, voçe pode comprar.'.format(n))
+print('U${:.2f}'.format(n/5.76))
+print('{:.2f}€'.format(n/6.27))
+print('{:.2f}¥'.format(n/0.054))
